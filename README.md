@@ -18,7 +18,7 @@
 <li>As emission levels rise, what effect does this have on the air quality status in certain regions?</li>
 <li>What are the countries with the highest emissions? Does this relate to population or GDP more? </li>
 <li>Is there a direct cause and effect relationship between emission levels and air quality</li>
-<li>What will emission totals be in 10 years? 20 years?</li>
+<li>Can we predict future air quality values?</li>
 <li>How do different pollutants (Coal, Oil, Gas, Cement, Flaring) vary across different regions? How do these vary in the United Stares?</li>
 <li>Can comparisons be made between distribution of emissions/air quality to GDP?</li>
 <li>How have emissions of a certain pollutant/air quality changed over time in a specific region? </li>
