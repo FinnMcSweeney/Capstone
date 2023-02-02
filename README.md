@@ -29,3 +29,14 @@
 
 
 <h2>Findings</h2>
+
+
+<h2>File Structure</h2>
+
+- Databricks: This folder contains the files for our consumer and producer.
+- EDA: This folder has the files from our initial exploratory data analysis.
+- Machine Learning: This folder holds the Jupyter notebooks on our two machine learning models.
+- Reports and Dashboard: This folder contains our Power BI reports and a screenshot of our dashboard.
+- Reports and Presentation: This folder has our two written reports and our final presentation slides.
+- VisualizationsNapkinsAndFeedback.pdf: This file is a few of our napkin drawings that we based our final visualizations on. 
+- pmp.pdf: This file is our initial project management plan that outlines our intended schedule. 
