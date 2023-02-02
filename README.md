@@ -10,6 +10,9 @@
 <li><a href="https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset">World Population Dataset</a> </li>
 <li><a href="https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update">Air Quality Index (AQI) </a></li>
 <li><a href="https://www.kaggle.com/datasets/zgrcemta/world-gdpgdp-gdp-per-capita-and-annual-growths"> World GDP (Per Capita, Annual Growth)</a> </li>
+<li><a href="https://www.epa.gov/ghgreporting/data-sets">Emissions by Unit and Fuel Type</a></li>
+<li><a href="https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual">US Pollutant Data</a></li>
+
 </ul>
 
 <h2> Initial Questions </h2>
@@ -20,6 +23,9 @@
 <li>Is there a direct cause and effect relationship between emission levels and air quality</li>
 <li>Can we predict future air quality values?</li>
 <li>How do different pollutants (Coal, Oil, Gas, Cement, Flaring) vary across different regions? How do these vary in the United Stares?</li>
-<li>Can comparisons be made between distribution of emissions/air quality to GDP?</li>
-<li>How have emissions of a certain pollutant/air quality changed over time in a specific region? </li>
+<li>What industries have the biggest impact on pollutants</li>
+<li>Given the United States high emissions per capita, what regions have the highest levels of pollutants?</li>
 </ol>
+
+
+<h2>Findings</h2>
