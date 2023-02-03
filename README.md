@@ -28,9 +28,6 @@
 </ol>
 
 
-<h2>Findings</h2>
-
-
 <h2>File Structure</h2>
 
 - Databricks: This folder contains the files for our consumer and producer.
